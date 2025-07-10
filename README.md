@@ -1,8 +1,6 @@
 # 🧩 Hangman Game (GUI Version)
 
-A GUI-based Hangman game built with Python's `tkinter` library. This includes interactive letter buttons, hints, and the ability to replay the game.
-
----
+A GUI-based Hangman game built with Python's `tkinter` library. This includes interactive letter buttons, hints and the ability to replay the game.
 
 ## ✅ Features
 
